@@ -1,9 +1,11 @@
 
+//mysql://b71bd689e11b93:bda47384@us-cdbr-east-05.cleardb.net/heroku_90c87f6652aaa5d?reconnect=true
+
 var config = {
-	host : '',
-	user : '',
-	password : '',
-	database ; ''
+	host : 'us-cdbr-east-05.cleardb.net',
+	user : 'b71bd689e11b93',
+	password : 'bda47384',
+	database ; 'heroku_90c87f6652aaa5d'
 };
 
 var connection;
